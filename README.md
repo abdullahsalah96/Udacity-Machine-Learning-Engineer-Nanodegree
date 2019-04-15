@@ -7,8 +7,10 @@ This repository includes code implementations and reports for Udacity's Machine 
 
 **- Project 2 - Finding Donors:** In this project, it's required to predict the people that are most likely to donate to CharityML foundation. This was done by applying supervised learning techniques and an analytical mind on data collected for the U.S. census.
 
+**- MNIST Dataset Project:** In this project, its' required to build a Neural Network that's able to predict the numerical digit present in an image.
+
 **- Project 3 - Dog Breed Classifier:** In this project, I implemented a Convolutional Neural Network **(CNN)** to predcit dog breeds. Given an image of a dog, the algorithm identifies an estimate of the cannine's breed. If the CNN was supplied with a human's image, it will output the closest resembling dog breed.
 
 **- Project 4 - Creating Customer Segments:** In this project, it's required to analyze a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for internal structure. One goal of this project is to best describe the variation in the different types of customers that a wholesale distributor interacts with. Doing so would equip the distributor with insight into how to best structure their delivery service to meet the needs of each customer.
 
-**
+**- Capstone Project: Traffic Sign Classifier:** In this project, I build a CNN that's able to predict the traffic sign present in an image. After fine tuning the model and refining its parameters, I was able to predict traffic signs with an accuracy of 89.08%.
