@@ -13,4 +13,4 @@ This repository includes code implementations and reports for Udacity's Machine 
 
 **- Project 4 - Creating Customer Segments:** In this project, it's required to analyze a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for internal structure. One goal of this project is to best describe the variation in the different types of customers that a wholesale distributor interacts with. Doing so would equip the distributor with insight into how to best structure their delivery service to meet the needs of each customer.
 
-**- Capstone Project: Traffic Sign Classifier:** In this project, I build a CNN that's able to predict the traffic sign present in an image. After fine tuning the model and refining its parameters, I was able to predict traffic signs with an accuracy of 89.08%.
+**- Capstone Project: Traffic Sign Classifier:** In this project, I built a CNN that's able to predict the traffic sign present in an image. After fine tuning the model and refining its parameters, the final model was able to predict traffic signs with an accuracy of 89.08%.
